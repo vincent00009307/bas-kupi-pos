@@ -1,0 +1,11 @@
+{
+  "name": "BAS KUPI POS",
+  "short_name": "BAS KUPI",
+  "description": "Kasir digital Warung Kopi BAS KUPI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#100d0b",
+  "theme_color": "#17110d",
+  "lang": "id",
+  "icons": []
+}
