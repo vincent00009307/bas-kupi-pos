@@ -1,0 +1,1 @@
+# bas-kupi-pos
